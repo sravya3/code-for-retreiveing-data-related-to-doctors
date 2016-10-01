@@ -1,0 +1,5 @@
+doc1,neuro,fremont,5
+doc1,neuro,san,5
+doc1,neuro,fre,5
+doc1,pedi,fremont,5
+doc1,gynic,font,3
