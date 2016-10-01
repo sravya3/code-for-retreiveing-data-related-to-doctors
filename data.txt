@@ -1,5 +1,5 @@
 doc1,neuro,fremont,5
-doc1,neuro,san,5
-doc1,neuro,fre,5
+doc1,neuro,sanjose,5
+doc1,neuro,santaclara,4
 doc1,pedi,fremont,5
-doc1,gynic,font,3
+doc1,gynic,samfrancisco,3
